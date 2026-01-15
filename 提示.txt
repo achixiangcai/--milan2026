@@ -1,0 +1,4 @@
+c盘
+运行方式cmd-
+streamlit run 文件名.py
+localhost

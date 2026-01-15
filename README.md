@@ -29,13 +29,15 @@
     - 视角二（指定国家）：大项 → 奖牌颜色 → 小项/运动员
   - 通过颜色深浅与面积体现奖牌数量与含金量（Gold / Silver / Bronze）
 
-<img width="410" height="208" alt="image" src="https://github.com/user-attachments/assets/fbe706d1-51af-4f27-b9ba-9c74d487f9a4" />
+<img width="2728" height="1424" alt="image" src="https://github.com/user-attachments/assets/457e7f73-deba-4701-b065-6198df149aee" />
+
 
 - **国家历史表现趋势折线图**
   - 若选择“全部国家”：自动找出当前年份奖牌得分最高的国家，展示其历届得分变化
   - 若选择具体国家：展示该国在历届冬奥会中的积分趋势
 
-<img width="865" height="421" alt="image" src="https://github.com/user-attachments/assets/a88e14cc-152b-4dbc-b1d9-7e8441cd379c" />
+<img width="2772" height="1416" alt="image" src="https://github.com/user-attachments/assets/cd766662-e285-4190-9079-4ab16614499a" />
+
 
 
 - **当届前五表现国家柱状图（右侧）**
@@ -50,7 +52,8 @@
     - 最近新增项目使用特殊颜色高亮
   - 帮助理解从少量“生存技能型项目”发展至现代多元化的观赏性项目的过程
 
-<img width="865" height="413" alt="image" src="https://github.com/user-attachments/assets/7c2dde10-facb-4440-8226-786d8af02d7d" />
+<img width="2756" height="1428" alt="image" src="https://github.com/user-attachments/assets/8e02282b-34f3-4c6d-92ce-4a21a60888a8" />
+
 
 <img width="475" height="290" alt="image" src="https://github.com/user-attachments/assets/e0f79baa-2393-48c7-9843-d544150a137a" />
 
